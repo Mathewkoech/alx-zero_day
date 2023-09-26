@@ -1,1 +1,2 @@
-My first readme
+Myfirst readme
+Using git in terminal
